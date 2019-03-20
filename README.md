@@ -10,6 +10,12 @@
 
 ### GitHub で git リポジトリを作ってみよう
 
+https://github.com にアクセス
+
+画面右上の `+` ボタンを押すと `New Repository` というメニューが出てくるのでそれをクリック
+
+![ss01](https://github.com/furuhama/github_tutorial/blob/master/img/ss01.png)
+
 ### ローカル環境に git リポジトリを作ってみよう
 
 ### ローカル環境の git リポジトリと GitHub の git リポジトリを紐づけてみよう
