@@ -154,7 +154,7 @@ git push origin master
 
 ```
 Username for 'https://github.com': furuhama (<- ここは自分の GitHub ID を入れよう)
-Password for 'https://furuhama@github.com': (<- 自分の GitHub のパスワードを入れよう)
+Password for 'https://furuhama@github.com': (<- さっき作った特別なパスワードを入れよう)
 ```
 
 上手くいったら
