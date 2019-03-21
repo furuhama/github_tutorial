@@ -48,7 +48,7 @@ https://github.com にアクセス
 
 ![ss02](https://github.com/furuhama/github_tutorial/blob/master/img/ss02.png)
 
-リポジトリには好きな名前をつけよう！(もう名前が付いていたらそれがいいと思う！)
+リポジトリには好きな名前をつけよう！(もう自分で Rails アプリに名前を付けていたらそれがいいと思う！)
 
 名前を入れたら、緑色になった `Create Repository` をクリックすれば OK
 
