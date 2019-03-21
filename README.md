@@ -52,7 +52,7 @@ https://github.com にアクセス
 
 名前を入れたら、緑色になった `Create Repository` をクリックすれば OK
 
-![ss03](https://github.com/furuhama/github_tutorial/blob/master/img/ss02.png)
+![ss03](https://github.com/furuhama/github_tutorial/blob/master/img/ss03.png)
 
 このあとのステップで使うからこのページは開いておこう
 
