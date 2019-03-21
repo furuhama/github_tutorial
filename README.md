@@ -143,8 +143,6 @@ git remote add origin <コピペしたアドレス>
 細かい意味まではここでは説明しないけど、今までの設定がうまく行っていたら、以下のコマンドを上から順に打つとうまく行くはず！
 
 ```
-git add .
-
 git commit -am 'Initial commit'
 
 git push origin master
